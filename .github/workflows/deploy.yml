@@ -4,7 +4,7 @@ run-name: ${{github.actor}} has started this
 on: 
     push:
         branches:
-            - 'main'
+            - 'feature'
 
 
 env: 
