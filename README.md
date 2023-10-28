@@ -2,11 +2,11 @@
 
 Welcome to my GitHub project, where I'll guide you through the process of creating and managing infrastructure using Terraform while automating the deployment process with GitHub Actions. I'm excited to share this comprehensive resource with you.
 
+![Screenshot from 2023-10-28 23-19-57](https://github.com/SanjaySinghRajpoot/vpc-terraform/assets/67458417/d1b15c30-258b-4ca4-861d-8323d20f1020)
+
 ## What Is Terraform?
 
 Terraform is a fantastic open-source Infrastructure as Code (IaC) tool that empowers you to define and provision infrastructure using a declarative configuration language. It's a powerful way to manage your infrastructure efficiently and consistently.
-
-![Screenshot from 2023-10-28 23-19-57](https://github.com/SanjaySinghRajpoot/vpc-terraform/assets/67458417/d1b15c30-258b-4ca4-861d-8323d20f1020)
 
 
 ## The Power of GitHub Actions
